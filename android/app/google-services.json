@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10560342007",
+    "firebase_url": "https://sltest-fd6d9.firebaseio.com",
+    "project_id": "sltest-fd6d9",
+    "storage_bucket": "sltest-fd6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10560342007:android:37e2952745556d21a050f2",
+        "android_client_info": {
+          "package_name": "com.imret.SelfLockerTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10560342007-4s2hefm2el4rsl2hoogns53i11so8uam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyV5ytmT4CXhXHlmJIM-l18ckDEH3EHIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10560342007-4s2hefm2el4rsl2hoogns53i11so8uam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

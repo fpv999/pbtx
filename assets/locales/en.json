@@ -1,0 +1,92 @@
+{
+	"OK": "OK",
+    "onBoard1Head": "Hi!",
+    "onBoard1Text": "SelfLocker is an application that keeps you up to date with information about where your orders are!",
+    "onBoard1Button": "START",
+	
+	"onBoard2Head": "Shopping security",
+	"onBoard2Text": "Receive orders from the store at any time without contacting the staff!",
+	"onBoard2Button": "NEXT",
+    
+	"onBoard3Head": "Remote service",
+	"onBoard3Text": "Thanks to the application, you can open a terminal for issuing parcels directly from your phone.",
+	"onBoard3Button": "NEXT",
+    
+	"onBoard4Head": "Track order",
+	"onBoard4Text": "Stay updated! The application will send notifications about the finished order and the possibility of collection.",
+	"onBoard4Button": "START",    
+	
+	"termsHead": "Terms of the SelfLocker application",
+	"termsNotAccept": "Do not accept",
+	"termsAccept": "I accept",
+	
+	"termsWarningHead": "Acceptance required",
+	"termsWarningText": "To use the SelfLocker app, you must accept the regulations.",
+
+	"login1Head": "Login",
+	"login1Text": "Enter your phone number and enjoy the full functionality of the application.",
+	"login1Button": "OK",
+	"login2Head": "Verification code",
+	"login2Text": "You got a text message with a verification code. Please enter it below.",
+	"login2Button": "NEXT",
+	"login3Head": "Congratulations!",
+	"login3Text": "Welcome to SelfLocker - receive parcels even more conveniently!",
+	"login3Button": "START",
+	
+	"menuHead": "Menu",
+	"menuOrders": "Your Orders",
+	"menuSettings": "Settings",
+	"menuAbout": "About",
+	"menuLogout": "Logout",
+	
+	"aboutHead": "About",
+	"aboutText": "This is very cool app",
+	
+	"settingsHead": "Settings",
+	"settingsLang": "App language",
+	"settingsNotif": "Notifications",
+	
+	"homeHead": "Śledzenie przesyłek",
+	"homeNoPackages": "Nie śledzisz jeszcze żadnej przesyłki",
+	"homeNoPackagesAdd": "Kliknij [ + ] by dodać przesyłkę",
+	
+	"packageDetailsHead": "Szczegóły przesyłki",
+	"packagePhoneNumber": "NR TELEFONU",
+	"packagePinCode": "KOD ODBIORU",
+	"packageOpenBox": "Otwórz skrytkę zdalnie",
+	"packageShare": "Udostępnij przesyłkę do obserwowania",
+	"packageOrderName": "NAZWA PRZESYŁKI",
+	"packageSetName": "Nadaj nazwę",
+	"packageShareCode": "Udostępnij kod odbioru przesyłki",
+	
+	"boxOpenHead": "Otwórz skrytkę",
+	"boxStatusReady": "Jesteś ju przy skrytce,\na Twoja przesyłka czeka\nna Ciebie tu obok!",
+	"boxStatusOpened": "Twoja przesyłka czeka na Ciebie tu obok!\nPodpowiem Ci, kieruj się w XXXXX\n od ekranu, według współrzędnych:",
+	"boxStatusDoorsStillOpen": "Czyżby drzwiczki skrytki nadal pozostały otwarte?",
+	"boxStatusClosed": "Dziękujemy za zamknięcie drzwiczek",
+	"boxStatusError": "Błąd otwarcia",
+	
+	"boxStatusHeadReady": "Gotowy?",
+	"boxStatusHeadOpened": "Skrytka otwarta!",
+	"boxStatusHeadDoorsStillOpen": "Heeej!",
+	"boxStatusHeadClosed": "Drzwiczki zamknięte.",
+	"boxStatusHeadError": "Awaria",
+	
+	"boxStatusButtonReady": "Otwórz skrytkę",
+	"boxStatusButtonOpened": "Przesyłka wyjęta",
+	"boxStatusButtonDoorsStillOpen": "Zamknij dzwiczki",
+	"boxStatusButtonClosed": "Drzwiczki zamknięte.",
+	"boxStatusButtonError": "Spróbuj ponownie",
+	
+	"networkErrorHead": "Błąd",
+	"networkErrorText": "Błąd serwera. Czy chcesz ponowić?",
+	"networkErrorRetry": "Ponów",
+	"networkErrorDont": "Rezygnuj",
+	
+	"state_awaitingInsert": "Oczekuje na umieszczenie w maszynie",
+	"state_inMachine": "umieszczone w maszynie",
+	"state_awaitingReception": "oczekuje na odbiór",
+	"state_pickedUp": "podjęta przez klienta",
+	"state_takenOut": "wyjęta przez pracownika",
+	"state_mixed": "multiple parcels inside have different states"
+}
